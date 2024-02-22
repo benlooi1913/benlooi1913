@@ -17,4 +17,5 @@
   <li><strong>Building Data Pipelines:</strong> Used Python, AWS Lambda, AWS Redshift, CRON scheduling, and encrypting personally identifiable information (PII) data columns.</li>
   <li><strong>Web Development:</strong> Gaining experience in HTML, CSS, JavaScript, and AWS for computing, storage, network routing, and authorization.</li>
   <li><strong>Certification:</strong> Targeting to gain datacamp certificates in data engineer and data scientist in May 2024</li>
+  <li><strong>Competition:</strong> Looking for teams in Kaggle Competition</li>
 </ul>
